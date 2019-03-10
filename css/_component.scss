@@ -1,0 +1,11 @@
+$maincolor: #18c3b3;
+$maincolor2: #0ea6b1;
+.section-title{
+	font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    span{
+    	color: $maincolor;
+    	
+    }
+}
